@@ -55,6 +55,7 @@ namespace ConsoleApplication3
                                 {
                                     check++;
                                 }
+                                ;
                             }
 
                            switch (del)
